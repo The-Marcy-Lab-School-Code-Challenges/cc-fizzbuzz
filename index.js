@@ -1,25 +1,11 @@
 //1
-function countToTen(){
+function fizzBuzz(){
   
 }
 
 //2
-function countFromOne(){
+function fizzBuzz(number){
   
 }
 
-//3
-function countEveryEven(){
-  
-}
-
-//4
-function countEveryOdd(){
-  
-}
-
-//5 
-function countEvens(){
-  
-}
 
