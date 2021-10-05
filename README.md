@@ -17,7 +17,7 @@ fizzBuzz() // console.logs: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fiz
 
 
 ### Bonus 
-6. **Problem**: Write a function named `fizzBuzz` that takes in an integer argument, `number`, and returns an array of strings, `answer`, where:
+2. **Problem**: Write a function named `fizzBuzz` that takes in an integer argument, `number`, and returns an array of strings, `answer`, where:
 
 - `answer[i] == "FizzBuzz"` if `i` is divisible by `3` and `5`.
 - `answer[i] == "Fizz"` if `i` is divisible by `3`.
