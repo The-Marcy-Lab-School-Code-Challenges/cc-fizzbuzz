@@ -4,7 +4,7 @@ function fizzBuzz(){
 }
 
 //2
-function fizzBuzz(number){
+function fizzBuzzArray(number){
   
 }
 
