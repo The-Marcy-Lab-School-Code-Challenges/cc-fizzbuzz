@@ -10,14 +10,14 @@
 
 ## Code Problems
 
-1. Write a function named fizzBuzz that prints the numbers from 1 to 100. But for multiples of three console.log “Fizz” instead of the number and for the multiples of five console.log “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
+1. Write a function named `fizzBuzz` that prints the numbers from 1 to 100. But for multiples of three console.log “Fizz” instead of the number and for the multiples of five console.log “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
 ```
 fizzBuzz() // console.logs: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 4, FizzBuzz, 16 ...
 ```
 
 
 ### Bonus 
-2. **Problem**: Write a function named `fizzBuzz` that takes in an integer argument, `number`, and returns an array of strings, `answer`, where:
+2. **Problem**: Write a function named `fizzBuzzArray` that takes in an integer argument, `number`, and returns an array of strings, `answer`, where:
 
 - `answer[i] == "FizzBuzz"` if `i` is divisible by `3` and `5`.
 - `answer[i] == "Fizz"` if `i` is divisible by `3`.
