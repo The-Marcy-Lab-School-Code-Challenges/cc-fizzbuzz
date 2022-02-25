@@ -27,7 +27,7 @@ fizzBuzz() // console.logs: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fiz
 The output array's length should be equal to the given integer `number` and the first index will be `1` and the last index will be `number`
 
 ```
-fizzBuzz(3) // returns ["1","2","Fizz"]
-fizzBuzz(5) // returns ["1","2","Fizz","4","Buzz"]
-fizzBuzz(15) // returns ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13","14","FizzBuzz"]
+fizzBuzzArray(3) // returns ["1","2","Fizz"]
+fizzBuzzArray(5) // returns ["1","2","Fizz","4","Buzz"]
+fizzBuzzArray(15) // returns ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13","14","FizzBuzz"]
 ```
