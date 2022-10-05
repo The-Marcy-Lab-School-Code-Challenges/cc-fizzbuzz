@@ -1,9 +1,13 @@
-//1
 function fizzBuzz(){
   
 }
 
-//2
+
+function fizzBuzzN(n){
+  
+}
+
+
 function fizzBuzzArray(number){
   
 }
