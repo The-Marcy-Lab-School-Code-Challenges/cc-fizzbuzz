@@ -17,7 +17,7 @@ fizzBuzz() // console.logs: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fiz
 
 2. Write a function named `fizzBuzzN` that takes in an integer argument and prints the numbers from 1 to `n`. But for multiples of three console.log “Fizz” instead of the number and for the multiples of five console.log “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
 ```
-fizzBuzzN(15) // console.logs: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 4, FizzBuzz
+fizzBuzzN(15) // console.logs: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz
 ```
 
 3. Write a function named `fizzBuzzArray` that takes in an integer argument, `number`, and returns an array of strings, `answer`, where:
